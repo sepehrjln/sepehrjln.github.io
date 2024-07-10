@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.ubc.ca/'>University of British Columbia</a>. Vancouver, BC, Canada.
 
 profile:
   align: right
